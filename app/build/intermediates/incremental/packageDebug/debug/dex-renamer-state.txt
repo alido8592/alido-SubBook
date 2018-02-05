@@ -1,0 +1,4 @@
+#Mon Feb 05 05:47:50 MST 2018
+base.0=/Users/eleiee/Google Drive/unilife/CMPUT 301_2/projects/alidoSubBook/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
